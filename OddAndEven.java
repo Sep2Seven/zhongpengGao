@@ -20,6 +20,8 @@ public class OddAndEven {
     	   System.out.println("The random number is even!");
        else
     	   System.out.println("The random number is Odd!");
+       
+        System.out.print(number);
 	}
 
 }
