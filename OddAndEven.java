@@ -21,7 +21,8 @@ public class OddAndEven {
        else
     	   System.out.println("The random number is Odd!");
        
-        System.out.print(number);
+           System.out.print(number);
+           System.out.println("HongCheng ÊÇÉµ×Ó£¡£¡")£»
 	}
 
 }
