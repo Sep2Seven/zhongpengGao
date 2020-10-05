@@ -22,7 +22,7 @@ public class OddAndEven {
     	   System.out.println("The random number is Odd!");
        
            System.out.print(number);
-           System.out.println("HongCheng ÊÇÉµ×Ó£¡£¡");
+           System.out.println("HongCheng is SB");
 	}
 
 }
